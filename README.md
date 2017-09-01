@@ -18,4 +18,3 @@ docker-compose rm
 
 
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/marroocamp/docker-lemp)
