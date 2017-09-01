@@ -15,3 +15,7 @@ docker-compose rm
 
 [Docker]:                      https://www.docker.io/
 [Compose]:                     http://docs.docker.com/compose/install/
+
+
+
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://github.com/marroocamp/docker-lemp)
