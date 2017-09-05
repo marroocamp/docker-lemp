@@ -1,3 +1,6 @@
+[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://github.com/marroocamp/docker-lemp)
+
+
 # docker-lemp
 
 Run Nginx, php-fpm and MariaDB using [Docker]
@@ -15,7 +18,5 @@ docker-compose rm
 
 [Docker]:                      https://www.docker.io/
 [Compose]:                     http://docs.docker.com/compose/install/
-
-
 
 
