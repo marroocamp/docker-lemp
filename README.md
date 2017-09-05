@@ -18,4 +18,4 @@ docker-compose rm
 
 
 
-[! [Status dos Requisitos] (https://requires.io/github/marroocamp/docker-lemp/requirements.svg?branch=master)] (https://requires.io/github/marroocamp/docker-lemp/requirements /? branch = master)
+[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://github.com/marroocamp/docker-lemp)
