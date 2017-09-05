@@ -18,4 +18,4 @@ docker-compose rm
 
 
 
-[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://github.com/marroocamp/docker-lemp)
+
