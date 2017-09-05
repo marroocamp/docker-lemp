@@ -18,9 +18,4 @@ docker-compose rm
 [Docker]:                      https://www.docker.io/
 [Compose]:                     http://docs.docker.com/compose/install/
 
- [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/marroocamp/docker-lemp)
-
-
-
-
-
+[![Uptime Robot status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36.svg)](https://github.com/marroocamp/docker-lemp) [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg)](https://github.com/marroocamp/docker-lemp)
