@@ -18,7 +18,7 @@ docker-compose rm
 [Docker]:                      https://www.docker.io/
 [Compose]:                     http://docs.docker.com/compose/install/
 
-[![Docker Build Statu](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://github.com/marroocamp/docker-lemp)
+ [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://github.com/marroocamp/docker-lemp)
 
 
 
