@@ -1,5 +1,7 @@
 # docker-lemp
 
+[![Join the chat at https://gitter.im/docker-lemp/Lobby](https://badges.gitter.im/docker-lemp/Lobby.svg)](https://gitter.im/docker-lemp/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Run Nginx, php-fpm and MariaDB using [Docker]
 
 ## Requirementos
